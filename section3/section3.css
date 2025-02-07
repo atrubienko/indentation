@@ -1,11 +1,7 @@
 .article__section3 { 
-  box-sizing: border-box;
-  max-width: 1080px;
-  min-height: 3970px;
   margin-bottom: 50px;
 }
 .section3__title { 
-  box-sizing: border-box;
   font-size: 36px;
   font-weight: 900;
   line-height: 120%;
@@ -15,59 +11,23 @@
 }
 
 .section3__paragraph { 
-  box-sizing: border-box;
-  font-size: 20px;
-  font-weight: 400;
-  line-height: 120%;
-  letter-spacing: 0;
-  text-align: left;
   margin-bottom: 30px;
 }
 
-.section3__img1 { 
-  box-sizing: border-box;
-  margin: 0px 240px 30px 240px;
-}
-
-.section3__figure1 { 
-  box-sizing: border-box;
-  
-}
-
-.section3-figure1__img1 { 
-  box-sizing: border-box;
-  margin: 0px 240px 30px 240px;
-}
-.section3-figure1__img2 { 
-  box-sizing: border-box;
-}
-
-.section3-figure1__img3 { 
-  box-sizing: border-box;
+.section3__img1, .section3-figure1__img1 { 
+  margin: 0 auto;
   margin-bottom: 30px;
 }
 
-.section3__figure2 { 
-  box-sizing: border-box;
-}
-
-.section3-figure2__img1 { 
-  box-sizing: border-box;
+.section3-figure1__img3, .section3-figure2__img1 { 
   margin-bottom: 30px;
 }
 
-.section3-figure2__img2 { 
-  box-sizing: border-box;
-  margin: 0px 137px 30px 137px;
-}
-
-.section3__img7 { 
-  box-sizing: border-box;
-  margin: 0px 281px 30px 282px;
+.section3-figure2__img2, .section3__img7 { 
+  margin: 0 auto;
+  margin-bottom: 30px;
 }
 
 .section3__img8 { 
-  box-sizing: border-box;
-  margin-left: 290px;
-  margin-right: 290px;
+  margin: 0 auto;
 }
